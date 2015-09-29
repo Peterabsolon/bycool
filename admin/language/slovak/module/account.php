@@ -1,0 +1,15 @@
+<?php
+// Heading
+$_['heading_title']    = 'Účet';
+
+// Text
+$_['text_module']      = 'Moduly';
+$_['text_success']     = 'Modul bol úspešne upravený!';
+$_['text_edit']        = 'Upraviť modul';
+$_['text_warranty']	   = 'Záručné listy';
+
+// Entry
+$_['entry_status']     = 'Stav';
+
+// Error
+$_['error_permission'] = 'Upozornenie: Nemáte oprávnenie k úprave modulu účet!';

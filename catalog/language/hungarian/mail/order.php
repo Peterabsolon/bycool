@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Megrendelés száma:  %s';
+$_['text_new_greeting']         = 'Köszönjük érdeklődésedet %s termékre. Rendelésedet megkaptuk és azoonnal feldolgozzuk miután a kifizetés megérkezett.';
+$_['text_new_received']         = 'Új megrendelés érkezett';
+$_['text_new_link']             = 'Rendelésed megtekintéséhez kattints az alábbi hivatkozásra:';
+$_['text_new_order_detail']     = 'Rendelési adatok';
+$_['text_new_instruction']      = 'Magyarázat';
+$_['text_new_order_id']         = 'Rendelésszám:';
+$_['text_new_date_added']       = 'Létrehozva:';
+$_['text_new_order_status']     = 'Rendelés állapota:';
+$_['text_new_payment_method']   = 'Fizetés módja:';
+$_['text_new_shipping_method']  = 'Szállítás módja:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Telefon:';
+$_['text_new_ip']  				= 'IP cím:';
+$_['text_new_payment_address']  = 'Számlázási cím';
+$_['text_new_shipping_address'] = 'Szállítási cím';
+$_['text_new_products']         = 'Products';
+$_['text_new_product']          = 'Leírás';
+$_['text_new_model']            = 'Cikkszám';
+$_['text_new_quantity']         = 'Mennyiség';
+$_['text_new_price']            = 'Egységár';
+$_['text_new_order_total']      = 'Rendelés összege';
+$_['text_new_total']            = 'Összes';
+$_['text_new_download']         = 'Amint a kifizetés megérkezik, a lenti linkre kattintva elérheted a letölthető termékeit:';
+$_['text_new_comment']          = 'Vásárláshoz fűződő megjegyzés:';
+$_['text_new_footer']           = 'Kérjük, ha bármi kérdésed van válaszolj erre az e-mailre.';
+$_['text_update_subject']       = '%s - rendelés módosítása %s';
+$_['text_update_order']         = 'Rendslésszám:';
+$_['text_update_date_added']    = 'Rendelés dátuma:';
+$_['text_update_order_status']  = 'A rendelésed az alábbi állapotra változott:';
+$_['text_update_comment']       = 'Vásárláshoz fűződő megjegyzés:';
+$_['text_update_link']          = 'Rendelésed megtekintéséhez kattints az alábbi hivatkozásra:';
+$_['text_update_footer']        = 'Kérjük, ha bármi kérdésed van válaszolj erre az e-mailre.';
